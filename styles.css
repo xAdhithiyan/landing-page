@@ -52,9 +52,10 @@ main img{
 h1{
     font-size: 40px;
     width:450px;
+
 }
 button{
-    margin-bottom:12px;
+    margin-bottom:14px;
     padding-bottom:4px;
     width:80px;
     color: #E5E7EB;
@@ -73,6 +74,7 @@ h2{
     text-align: center;
     font-size: 36px;
     color: #1F2937;
+    margin:30px;
 }
 .content_2{
     text-align:center;
@@ -83,5 +85,69 @@ h2{
 }
 .info1{
     width:180px;
-    
+}
+.info1 img{
+    margin:0px;
+    padding:0px;
+    border: 3px solid black;
+}
+.info1 div{
+    margin-top:7px;
+    margin-bottom: -6px;
+    color:#95999f;
+
+}
+.info1 .name{
+    font-weight:700;
+}
+
+/*content_3*/
+.content_3{
+    background:#e5e7eb;
+    margin-top:60px;
+    padding:100px;
+    padding-right:320px;
+    padding-left:320px;
+
+}
+.content_3 div{
+    text-align: center;
+    font-size:36px;
+    font-style:italic;
+    font-weight:300;
+    color:#1f2937;
+}
+.content_3 .quote-name{
+    font-style:normal;
+    font-weight:700;
+    display:flex;
+    justify-content: flex-end;
+}
+
+/*content_4*/
+.content_4{
+    display:flex;
+    justify-content: space-around;
+    background-color:#3882F6;
+    margin:80px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding:40px;
+    border-radius:15px;
+    color:#E5E7EB;
+
+}
+.content_4 button{
+    border-color:#E5E7EB;
+    flex-shrink: 0;
+
+}
+
+/*footer*/
+footer{
+    text-align:center;
+    background: #1f2937;
+    color:#E5E7EB;
+    padding:10px;
+
 }
