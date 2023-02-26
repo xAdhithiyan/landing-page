@@ -2,7 +2,7 @@
 ## Links
 - [Visit the website](https://xadhithiyan.github.io/landing-page/)
 
-- [Link to the assignment](https://www.theodinproject.com/lessons/foundations-landing-page)https://www.theodinproject.com/lessons/foundations-landing-page
+- [Link to the assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
 
 ## About
 An office themed landing page made using html and css for an assignment in the course The Odin Project. Concepts of flexbox were used.
