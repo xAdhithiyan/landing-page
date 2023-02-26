@@ -34,12 +34,13 @@ main img{
 
 
 /*body*/
+/*content_1*/
 .content_1{
     display:flex;
     justify-content:center;
     flex-wrap:wrap;
     gap:50px;
-    padding-top:35px;
+    padding-top:34px;
     background: #1f2937;
     box-sizing: border-box;
 }
@@ -58,8 +59,29 @@ button{
     width:80px;
     color: #E5E7EB;
     font-size:17px;
-    background: royalblue;
-    border:1px solid royalblue;
+    background: #3882F6;
+    border:1px solid #3882F6;
     border-radius : 5px;
-    
 } 
+button:active{
+    background-color:black;
+    border:1px solid black;
+}
+
+/*content_2*/
+h2{
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+}
+.content_2{
+    text-align:center;
+    display:flex;
+    justify-content: center;
+    gap:50px;
+    flex-wrap:wrap;
+}
+.info1{
+    width:180px;
+    
+}
